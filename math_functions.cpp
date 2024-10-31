@@ -10,6 +10,8 @@ int main(){
     // cout << pow(2, 3);
     // cout << sqrt(9);
     // cout << abs(-4);
-    cout << round(4.3);
+    int n;
+    cin >> n;
+    cout << pow(n, 2);
     return 0;
 }
